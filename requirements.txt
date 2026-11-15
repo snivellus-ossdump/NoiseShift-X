@@ -1,0 +1,9 @@
+numpy
+pillow
+scipy
+scikit-image
+matplotlib
+pandas
+opencv-python
+bm3d
+# torch: install the CUDA build that matches your GPU from https://pytorch.org/get-started/locally/

@@ -1,0 +1,9 @@
+.venv/
+__pycache__/
+*.pyc
+content/
+ckpt/
+submission/
+*.npy
+*.pt
+*.zip

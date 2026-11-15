@@ -1,0 +1,11 @@
+{
+ "ckpt": "abl_gauss_hold_IP_s2",
+ "cams": {
+  "IP": {
+   "psnr": 38.73752550263787,
+   "ssim": 0.9303228477865276,
+   "n_images": 14,
+   "n_blocks": 2310
+  }
+ }
+}

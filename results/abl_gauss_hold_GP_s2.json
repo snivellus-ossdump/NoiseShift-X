@@ -1,0 +1,11 @@
+{
+ "ckpt": "abl_gauss_hold_GP_s2",
+ "cams": {
+  "GP": {
+   "psnr": 38.5848832556816,
+   "ssim": 0.9372499397993853,
+   "n_images": 9,
+   "n_blocks": 1485
+  }
+ }
+}
